@@ -3,7 +3,9 @@
 
 
 // element toggle function
-const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
+const elementToggleFunc = function (elem) { 
+  elem.classList.toggle("active"); 
+}
 
 
 
